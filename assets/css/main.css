@@ -176,7 +176,9 @@
 		width:  145px;
 
 	}
-	
+	#bg{
+		background-color: blue;
+	}
 
 	@-moz-keyframes bg {
 		0% {
