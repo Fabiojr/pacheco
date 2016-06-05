@@ -172,12 +172,11 @@
 /* BG */
 	.logo {
 		display: inline-block;
-		height: 250px;
-		width:  145px;
+
 
 	}
 	#bg{
-		background-color: blue;
+		background-color: #4B9ABB;
 	}
 
 	@-moz-keyframes bg {
