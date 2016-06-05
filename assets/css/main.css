@@ -170,17 +170,13 @@
 	}
 
 /* BG */
+	.logo {
+		display: inline-block;
+		height: 250px;
+		width:  145px;
 
-	#bg {
-	
-		background: #348cb2 url("images/fotofundo.jpg") bottom left;
-		background-repeat: repeat-x;
-		height: 100%;
-		left: 0;
-		opacity: 1;
-		position: fixed;
-		top: 0;
 	}
+	
 
 	@-moz-keyframes bg {
 		0% {
