@@ -172,12 +172,8 @@
 /* BG */
 	.logo {
 		display: inline-block;
-
-
 	}
-	#bg{
-		background-color: #4B9ABB;
-	}
+
 
 	@-moz-keyframes bg {
 		0% {
@@ -317,6 +313,7 @@
 		text-align: center;
 		top: 0;
 		width: 100%;
+		background-color: #4B9ABB;
 	}
 
 		#main:before {
